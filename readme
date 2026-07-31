@@ -33,6 +33,12 @@ We will analyze every consecutive pair to find out the order of the characters. 
 The pair “abcd” and “abca” suggests ‘d’ appears before ‘a’ in the alien dictionary. The pair “abca” and “cab” suggests ‘a’ appears before ‘c’ in the alien dictionary.
 The pair “cab” and “cad” suggests ‘b’ appears before ‘d’ in the alien dictionary. So, [‘b’, ‘d’, ‘a’, ‘c’] is a valid ordering.
 
+https://leetcode.com/problems/number-of-provinces/description/ (**)
+https://leetcode.com/problems/shortest-path-in-binary-matrix/description/ (**)
+https://leetcode.com/problems/cheapest-flights-within-k-stops/description/ (***)
+https://leetcode.com/problems/network-delay-time/description/ (**)
+https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/ (***)
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/ (***)
 
 
 
